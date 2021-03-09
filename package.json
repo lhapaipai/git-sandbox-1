@@ -1,0 +1,11 @@
+{
+  "name": "git-sandbox-1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {},
+  "author": "Lhapaipai",
+  "description": "feature A",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
